@@ -1,0 +1,6 @@
+INFO    2019-10-13 03:14:13,465 [main] base.TestBase  - This is the information log
+INFO    2019-10-13 03:14:13,468 [main] base.TestBase  - config file loaded !!
+INFO    2019-10-13 03:14:16,781 [main] base.TestBase  - chrome driver is launched !!
+INFO    2019-10-13 03:14:18,852 [main] base.TestBase  - Application is loaded !!
+INFO    2019-10-13 03:14:19,298 [main] base.TestBase  - Login Test !!
+INFO    2019-10-13 03:14:22,819 [main] base.TestBase  - Login Successfully checked !!

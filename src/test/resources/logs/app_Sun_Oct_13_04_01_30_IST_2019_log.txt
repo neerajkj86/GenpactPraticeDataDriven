@@ -1,0 +1,2 @@
+INFO    2019-10-13 04:01:31,400 [main] base.TestBase  - This is the information log
+INFO    2019-10-13 04:01:31,401 [main] base.TestBase  - config file loaded !!

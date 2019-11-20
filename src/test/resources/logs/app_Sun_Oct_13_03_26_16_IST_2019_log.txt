@@ -1,0 +1,8 @@
+INFO    2019-10-13 03:26:17,242 [main] base.TestBase  - This is the information log
+INFO    2019-10-13 03:26:17,244 [main] base.TestBase  - config file loaded !!
+INFO    2019-10-13 03:26:19,709 [main] base.TestBase  - chrome driver is launched !!
+INFO    2019-10-13 03:26:22,046 [main] base.TestBase  - Application is loaded !!
+INFO    2019-10-13 03:26:22,268 [main] base.TestBase  - Login Test !!
+INFO    2019-10-13 03:26:25,596 [main] base.TestBase  - Login Successfully checked !!
+INFO    2019-10-13 03:26:25,759 [main] base.TestBase  - Add Customer TOp Button is clicked
+INFO    2019-10-13 03:26:26,055 [main] base.TestBase  - First Name is fetched
